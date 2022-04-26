@@ -1,2 +1,2 @@
 # Mapping-GTD
-This is a code for mapping using Python's Matplotlib Basemap.
+This is a code for mapping terrorist events using Python's Matplotlib Basemap.
